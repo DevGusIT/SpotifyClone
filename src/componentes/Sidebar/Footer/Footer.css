@@ -1,0 +1,52 @@
+/* Estilo do banner de aviso premium fixo na parte inferior da página */
+.disclaimer-premium {
+    /* Posicionamento fixo */
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    /* Gradiente de fundo com cores vibrantes */
+    background: linear-gradient(to right, #ae2896, #509bf5);
+
+    /* Espaçamento interno e layout flexível */
+    padding: 0 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Estilo do título do aviso */
+.disclaimer-premium__title {
+    color: #ffffff;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+/* Estilo do subtítulo do aviso */
+.disclaimer-premium__subtitle {
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+/* Estilo do botão */
+.disclaimer-premium button {
+    /* Aparência do botão */
+    background-color: #ffffff;
+    color: #000000;
+    font-size: 16px;
+    font-weight: bold;
+
+    /* Dimensões e espaçamento */
+    padding: 14px 30px;
+
+    /* Estilo de borda */
+    border: none;
+    border-radius: 40px;
+
+    /* Interação do usuário */
+    cursor: pointer;
+}
