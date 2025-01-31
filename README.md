@@ -49,9 +49,6 @@ yarn start
 
 O projeto será executado no endereço `http://localhost:3000`
 
-## 👨‍💻 Autor
-Gustavo Moreno Souza
-
 ## 📫 Contatos
 
 <div>
