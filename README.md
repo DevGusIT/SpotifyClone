@@ -1,5 +1,8 @@
 # Projeto Imersão Alura 
 
+![Image](https://github.com/user-attachments/assets/cff0045d-ca49-4d03-bffe-8ec7b63814c0)
+
+
 ## 📝 Descrição
 Projeto desenvolvido durante a Imersão React da Alura, onde foi criada uma aplicação web interativa utilizando React e outras tecnologias modernas do desenvolvimento front-end.
 
