@@ -1,4 +1,4 @@
-# Projeto Imersão Alura 
+# Projeto Imersão Alura <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="35" height="35" />
 
 ![Image](https://github.com/user-attachments/assets/cff0045d-ca49-4d03-bffe-8ec7b63814c0)
 
